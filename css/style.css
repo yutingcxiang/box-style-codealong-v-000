@@ -237,7 +237,9 @@ background: linear-gradient(
   font: 1em "Trebuchet MS", Arial, sans-serif;
 }
 
-#navbar navbar a
+#navbar navbar a.selected {
+  
+}
 
 /*////////// LOGO //////////*/
 
