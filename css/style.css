@@ -238,7 +238,7 @@ background: linear-gradient(
 }
 
 #navbar navbar a.selected {
-  background: #ccc;
+  background: #333;
   color: white;
 }
 
