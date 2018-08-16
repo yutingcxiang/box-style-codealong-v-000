@@ -239,7 +239,7 @@ background: linear-gradient(
 
 #navbar navbar a.selected {
   background: #ccc;
-  color:;
+  color: white;
 }
 
 /*////////// LOGO //////////*/
