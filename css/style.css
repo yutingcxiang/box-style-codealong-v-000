@@ -242,7 +242,9 @@ background: linear-gradient(
   color: white;
 }
 
-#navbar navbar a:hover
+#navbar navbar a:hover {
+  
+}
 
 /*////////// LOGO //////////*/
 
